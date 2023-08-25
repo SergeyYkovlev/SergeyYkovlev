@@ -1,7 +1,7 @@
 # Hi there 👋 
 
 ### About me:
-💻&nbsp;iOS Developer at [Creonit]([https://tp.media/r?marker=323001&trs=133019&p=4114&u=https%3A%2F%2Fwww.aviasales.ru](https://creonit.ru))
+💻&nbsp;iOS Developer at [Creonit]([https://tp.media/r?marker=323001&trs=133019&p=4114&u=https%3A%2F%2Fwww.aviasales.ru](https://creonit.ru))<br>
 🏔 &nbsp;In love with travels<br>
 ⚽ &nbsp;Soccer player
 
